@@ -1,2 +1,2 @@
-include_target:
+te_include:
 	echo include
